@@ -7,7 +7,7 @@ Red Hat IT is seeking an Agile Continuous Improvement Coach to support all inter
  
 Primary Job Responsibilities:
 
-Define and implement a plan for the creation of an Agile CI Coaching Group, focused on support and continuous improvement for Agile practices in IT, working to evolve the Agile maturity of teams.
+Define and implement a plan for the creation of an Agile Continuous Improvement Coaching Group, focused on support and continuous improvement for Agile practices in IT, working to evolve the Agile maturity of teams.
 Support teams and organizations on their Agile journey by helping them identify their opportunities for continuous improvement practices that will help them deliver their product.
 Identify opportunities to standardize tools, techniques and measurements being used in IT, to improve overall agile methodologies and delivery
 Lead Agilists and other coaches in sound methods and practices that help teams deliver and help Red Hat have a common Agile “voice”
